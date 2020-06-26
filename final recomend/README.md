@@ -1,4 +1,4 @@
-# Social-Network-Based-Recommender-System
+# Course-Recommender
 A Recommender System that makes use of friendship relations in a social network graph to improve recommendation accuracy.
 
 ----------------------------------------------------------------
@@ -14,21 +14,12 @@ scipy
 
 numpy
 
-----------------------------------------------------------------
-Important Links:
-----------------------------------------------------------------
-Paper: http://www.cobase.cs.ucla.edu/tech-docs/jmhek/snrs.pdf
-
-Dataset: https://www.yelp.com/dataset_challenge
-
-Filtered Dataset: https://drive.google.com/open?id=0B88KCEO9WlRUVmtqMGpZZnRVaW8 
-
 -----------------------------------------------------------------
 Setup:
 -----------------------------------------------------------------
 1) Clone the repository specified in the Github link
 
-2) Download and unzip Filtered Dataset. Copy the content of the csvs folder in the zip into the csvs folder into the repository.
+2) Download and unzip the DatasetCopy the content of the csvs folder in the zip into the csvs folder into the repository.
 
 3) Copy the content of the pickles folder in the zip to the pickles folder in the repository.
 
