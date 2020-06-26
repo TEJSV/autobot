@@ -1,4 +1,4 @@
-# News-Recommendation-System
+# User-Recommendation-System
 
 The directory contains three subdirectories :
 
